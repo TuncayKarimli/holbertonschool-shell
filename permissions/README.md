@@ -1,0 +1,1 @@
+permission related scripts
